@@ -12,3 +12,4 @@ c-sharp/Examples/RdioConsumerCredentials.cs
 .idea
 *.iml
 *.exe
+pkg/
